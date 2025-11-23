@@ -1,6 +1,7 @@
 # maya-override-colors-reference
 A convenient reference for Maya’s built-in override colors
 
+I couldn’t find a clear reference for which index maps to which color, so I kept tweaking the slider and counting manually. I made this table to save myself the trouble. Hopefully it helps someone else too
 | Index | RGB |  HEX  | Color |
 | ------------- | ------------- | ------------- | ------------- |
 | 1 | rgb(0,0,0)| #000000 | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/000000'/>
