@@ -37,3 +37,8 @@ A convenient reference for Maya’s built-in override colors
 
 ## Acknowledgment
 The color swatches are generated using functionality provided by **[readme-swatches](https://github.com/luciancooper/readme-swatches)**. The required copyright and license notices for this code are included in the [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt) file in this repository.
+
+## Disclaimer
+I am not affiliated with Autodesk, Inc.
+The color values used here were acquired from the `cmds.colorIndex()` function within Maya. 
+I do not guarantee the accuracy of this data, and you should use it with caution and at your own risk.
