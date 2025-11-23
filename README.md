@@ -1,36 +1,39 @@
 # maya-override-colors-reference
 A convenient reference for Maya’s built-in override colors
 
-| Index | RGB |  HEX  | 
-| ------------- | ------------- | ------------- | 
-| 1 | rgb(0,0,0)| #000000 
-| 2 | rgb(63,63,63)| #3F3F3F 
-| 3 | rgb(153,153,153)| #999999 
-| 4 | rgb(155,0,40)| #9B0028 
-| 5 | rgb(0,4,95)| #00045F 
-| 6 | rgb(0,0,255)| #0000FF 
-| 7 | rgb(0,70,24)| #004618 
-| 8 | rgb(37,0,67)| #250043 
-| 9 | rgb(199,0,199)| #C700C7 
-| 10 | rgb(137,71,51)| #894733 
-| 11 | rgb(62,34,31)| #3E221F 
-| 12 | rgb(153,37,0)| #992500 
-| 13 | rgb(255,0,0)| #FF0000 
-| 14 | rgb(0,255,0)| #00FF00 
-| 15 | rgb(0,65,153)| #004199 
-| 16 | rgb(255,255,255)| #FFFFFF 
-| 17 | rgb(255,255,0)| #FFFF00 
-| 18 | rgb(99,220,255)| #63DCFF 
-| 19 | rgb(67,255,162)| #43FFA2 
-| 20 | rgb(255,175,175)| #FFAFAF 
-| 21 | rgb(227,172,121)| #E3AC79 
-| 22 | rgb(255,255,98)| #FFFF62 
-| 23 | rgb(0,153,83)| #009953 
-| 24 | rgb(160,105,48)| #A06930 
-| 25 | rgb(158,160,48)| #9EA030 
-| 26 | rgb(104,160,48)| #68A030 
-| 27 | rgb(48,160,93)| #30A05D 
-| 28 | rgb(48,160,160)| #30A0A0 
-| 29 | rgb(48,103,160)| #3067A0 
-| 30 | rgb(111,48,160)| #6F30A0 
-| 31 | rgb(160,48,105)| #A03069
+| Index | RGB |  HEX  | Color |
+| ------------- | ------------- | ------------- | ------------- |
+| 1 | rgb(0,0,0)| #000000 | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/000000'/>
+| 2 | rgb(63,63,63)| #3F3F3F | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/3F3F3F'/>
+| 3 | rgb(153,153,153)| #999999 | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/999999'/>
+| 4 | rgb(155,0,40)| #9B0028 | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/9B0028'/>
+| 5 | rgb(0,4,95)| #00045F | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/00045F'/>
+| 6 | rgb(0,0,255)| #0000FF | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/0000FF'/>
+| 7 | rgb(0,70,24)| #004618 | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/004618'/>
+| 8 | rgb(37,0,67)| #250043 | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/250043'/>
+| 9 | rgb(199,0,199)| #C700C7 | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/C700C7'/>
+| 10 | rgb(137,71,51)| #894733 | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/894733'/>
+| 11 | rgb(62,34,31)| #3E221F | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/3E221F'/>
+| 12 | rgb(153,37,0)| #992500 | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/992500'/>
+| 13 | rgb(255,0,0)| #FF0000 | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/FF0000'/>
+| 14 | rgb(0,255,0)| #00FF00 | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/00FF00'/>
+| 15 | rgb(0,65,153)| #004199 | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/004199'/>
+| 16 | rgb(255,255,255)| #FFFFFF | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/FFFFFF'/>
+| 17 | rgb(255,255,0)| #FFFF00 | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/FFFF00'/>
+| 18 | rgb(99,220,255)| #63DCFF | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/63DCFF'/>
+| 19 | rgb(67,255,162)| #43FFA2 | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/43FFA2'/>
+| 20 | rgb(255,175,175)| #FFAFAF | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/FFAFAF'/>
+| 21 | rgb(227,172,121)| #E3AC79 | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/E3AC79'/>
+| 22 | rgb(255,255,98)| #FFFF62 | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/FFFF62'/>
+| 23 | rgb(0,153,83)| #009953 | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/009953'/>
+| 24 | rgb(160,105,48)| #A06930 | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/A06930'/>
+| 25 | rgb(158,160,48)| #9EA030 | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/9EA030'/>
+| 26 | rgb(104,160,48)| #68A030 | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/68A030'/>
+| 27 | rgb(48,160,93)| #30A05D | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/30A05D'/>
+| 28 | rgb(48,160,160)| #30A0A0 | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/30A0A0'/>
+| 29 | rgb(48,103,160)| #3067A0 | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/3067A0'/>
+| 30 | rgb(111,48,160)| #6F30A0 | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/6F30A0'/>
+| 31 | rgb(160,48,105)| #A03069 | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/A03069'/>
+
+## Acknowledgment
+The color swatches are generated using functionality provided by **[readme-swatches](https://github.com/luciancooper/readme-swatches)**. The required copyright and license notices for this code are included in the [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt) file in this repository.
